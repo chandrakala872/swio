@@ -1,4 +1,5 @@
 import React from 'react';
+import './Customization.css'
 
 const Customization = () => (
   <div className="customization">

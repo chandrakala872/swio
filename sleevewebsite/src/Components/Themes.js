@@ -1,4 +1,5 @@
 import React from 'react';
+import './Themes.css'
 
 const Themes = () => (
   <div className="themes">

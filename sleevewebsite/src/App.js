@@ -3,7 +3,7 @@ import Sleeve2 from './Components/Sleeve2';
  import Themes from './Components/Themes';
 
  import Customization from './Components/Customization';
- import Integrations from './Components/Integrations';
+  import Integrations from './Components/Integrations';
 
 const App = () => (
   <div className="app">

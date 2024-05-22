@@ -1,0 +1,32 @@
+
+.customization {
+    font-family: 'Helvetica Neue', Arial, sans-serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #ffffff;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .customization h2 {
+    color: #333333;
+    font-size: 28px;
+    margin-bottom: 20px;
+  }
+  
+  .customization h3 {
+    color: #555555;
+    font-size: 22px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+  }
+  
+  .customization p {
+    color: #666666;
+    font-size: 16px;
+    line-height: 1.6;
+    margin-bottom: 15px;
+  }
+  
