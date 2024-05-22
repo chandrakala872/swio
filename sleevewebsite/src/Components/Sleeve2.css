@@ -1,0 +1,32 @@
+.sleeve2 {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    margin: 20px 0;
+    width:100vw;
+    height: 100vh;
+    
+  }
+  
+  .sleeve2 h1 {
+    color:black;
+  text-align: center;
+  font-size: 5.5rem;
+  }
+  
+  .sleeve2 h2 {
+    color:black;
+  text-align: center;
+  font-size: 3.5rem;
+  }
+  .sleeve2 p {
+    color: black;
+    font-size: 1.5rem;
+    text-align: center;
+    
+  }
+  .sleeve button {
+    background-color: black;
+  }
+  
+  
